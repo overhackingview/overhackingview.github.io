@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: jonatasemidio@gmail.com
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
@@ -10,20 +10,20 @@ name: Thomas Vaeth
 title: The Barber Theme
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+url: https://overhackingview.github.io
+twitter_username: jonatasemidio
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/jonatasemidio
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/jonatases/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/jonatasemidio/
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/jonatasemidio
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://codepen.io/jonatasemidio/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -38,9 +38,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
+  - name: Jonatas Emidio
     bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+    url: #
 
 # Build settings
 markdown: kramdown
