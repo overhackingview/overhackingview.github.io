@@ -19,17 +19,14 @@ And now, I wanna share with you 2 ideas (that for me, sounds amazing, but who kn
 
 ### My ideas!
 
-1 - In my opinion ,my English speaking is not a huge problem, but as you can see, writing is my "kryptonite". Because of this I decided to blog in English, but not only blog, but put my content in a place where will be easy to receive tips, advice and issues. So, why not, Github!!??
-
-2 - I love to be updated with tech news and always when I decide learn some new tech, framework or language, the first thing that the responsible shows me is a hello-world example. Why Gosh!?
+* In my opinion ,my English speaking is not a huge problem, but as you can see, writing is my "kryptonite". Because of this I decided to blog in English, but not only blog, but put my content in a place where will be easy to receive tips, advice and issues. So, why not, Github!!??
+* I love to be updated with tech news and always when I decide learn some new tech, framework or language, the first thing that the responsible shows me is a hello-world example. Why Gosh!?
 For me, would be awesome create something useful in my first sample, and I'm sure that most of than doesn't need to be hard. So... Do it yourself!!!!
 
 For that reason, I created OverHackingView, which means a OverView for Hackers!!! or to be clear a Useful overview!!!
-
 If I already know how things will works?! NOP! But I will start first and see the results after!
-
 I'm only sure about one thing!!! [Small Acts Make Great Revolutions!](http://smallactsmanifesto.org/)
 
-PS: This is my repo, so create issues not only to give ideas, but also to help me improve my written skills!
+> PS: This is my repo, so create issues not only to give ideas, but also to help me improve my written skills!
 
 Cheers!!!
