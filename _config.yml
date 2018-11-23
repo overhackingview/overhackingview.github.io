@@ -6,10 +6,10 @@ paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Jonatas Emidio 
+title: OverHackingView
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  This is a place to share more then just hello world!.
 url: https://overhackingview.github.io
 twitter_username: jonatasemidio
 default_img: /assets/images/seo.jpg
