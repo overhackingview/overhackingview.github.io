@@ -14,7 +14,6 @@ First of all, I would like to say "Thank You!!!", for every single person  who h
 I'm Jonatas Emidio, Brazilian Developer, Living in Rio de Janeiro (So called - Cidade Maravilhosa == Wonderful City). 
 
 ![Placeholder](/assets/images/guy-desk.jpg)
-![Placeholder](/assets/images/placeholder-2.jpg)
 
 And now, I wanna share with you 2 ideas (that for me, sounds amazing, but who knows!)...
 
