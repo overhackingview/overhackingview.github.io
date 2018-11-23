@@ -27,6 +27,6 @@ For that reason, I created OverHackingView, which means a OverView for Hackers!!
 If I already know how things will works?! NOP! But I will start first and see the results after!
 I'm only sure about one thing!!! [Small Acts Make Great Revolutions!](http://smallactsmanifesto.org/)
 
-> PS: This is my repo, so create issues not only to give ideas, but also to help me improve my written skills!
+[`PS: This is my repo, so create issues not only to give ideas, but also to help me improve my written skills!`](https://github.com/overhackingview/overhackingview.github.io/)
 
 Cheers!!!
