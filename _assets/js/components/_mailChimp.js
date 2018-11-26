@@ -36,16 +36,20 @@ const MailChimp = (() => {
           dataType: 'jsonp',
           success: response => {
             if (response.result === 'error') {
+              console.log(s.form);
               setTimeout(() => {
                 s.formMessage.text(`${response.msg}.`);
                 s.formMessage.removeClass('hidden');
                 s.formMessage.addClass(s.animation);
               }, 750);
             } else {
+              console.log(s.form);
+              console.log(top.location.host.toString());
               window.location = `http://${top.location.host.toString()}/subscribe`;
             }
           },
           error: () => {
+            console.log(s.form);
             setTimeout(() => {
               s.formMessage.text('There was an error.');
               s.formMessage.removeClass('hidden');
