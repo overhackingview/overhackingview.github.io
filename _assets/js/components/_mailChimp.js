@@ -24,22 +24,6 @@ const MailChimp = (() => {
       s = this.settings();
       this.bindEvents();
     },
-
-    bindEvents() {
-      s.formSubmit.on('click', e => {
-        e.preventDefault();
-
-        $.ajax({
-          url: s.formAction,
-          type: 'POST',
-          data: s.form.serialize(),
-          dataType: 'jsonp',
-          success: response => {
-             window.location = `http://${top.location.host.toString()}/subscribe`;
-          }
-        });
-      });
-    }
   };
 })();
 
