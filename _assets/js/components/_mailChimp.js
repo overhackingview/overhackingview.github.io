@@ -37,7 +37,7 @@ const MailChimp = (() => {
           success: response => {
             if (response.result === 'error') {
               setTimeout(() => {
-                s.formMessage.text(`${response.msg}.`);
+                s.formMessage.text(`${response.msg}!!`);
                 s.formMessage.removeClass('hidden');
                 s.formMessage.addClass(s.animation);
               }, 750);
