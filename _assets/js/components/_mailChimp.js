@@ -35,6 +35,7 @@ const MailChimp = (() => {
           data: s.form.serialize(),
           dataType: 'jsonp',
           success: response => {
+            alert(response.result);
             if (response.result === 'error') {
               setTimeout(() => {
                 s.formMessage.text(`${response.msg}.`);
@@ -42,11 +43,13 @@ const MailChimp = (() => {
                 s.formMessage.addClass(s.animation);
               }, 750);
             } else {
+              alert(`http://${top.location.host.toString()}/subscribe`);
               window.location = `http://${top.location.host.toString()}/subscribe`;
             }
           },
           error: () => {
             setTimeout(() => {
+              alert('erro final');
               s.formMessage.text('There was an error.');
               s.formMessage.removeClass('hidden');
               s.formMessage.addClass(s.animation);
