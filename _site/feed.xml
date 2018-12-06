@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OverHackingView</title>
+    <description>This is a place to share more then just hello world!.</description>
+    <link>http://overhackingview.com</link>
+    <atom:link href="http://overhackingview.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Dec 2018 12:50:35 -0200</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 12:50:35 -0200</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Do not start with Hello World</title>
+        <description>&lt;p&gt;First of all, I would like to say “Thank You!!!”, for every single person  who helped me to get where I am. I have at least 10 years working in tech companies and I had the opportunity to meet amazing people, super developers and references of professionalism.&lt;/p&gt;
+
+&lt;p&gt;I’m Jonatas Emidio, Brazilian Developer, Living in Rio de Janeiro (So called - Cidade Maravilhosa == Wonderful City).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/guy-desk.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And now, I wanna share with you 2 ideas (that for me, sounds amazing, but who knows!)…&lt;/p&gt;
+
+&lt;h3 id=&quot;my-ideas&quot;&gt;My ideas!&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In my opinion, my English speaking is not a huge problem, but as you can see, writing is my “kryptonite”. Because of this I decided to blog in English, but not only blog, but put my content in a place where will be easy to receive tips, advice and issues. So, why not, Github!!??&lt;/li&gt;
+  &lt;li&gt;I love to be updated with tech news and always when I decide learn some new tech, framework or language, the first thing that the responsible shows me is a hello-world example. Why Gosh!?
+For me, would be awesome create something useful in my first sample, and I’m sure that most of than doesn’t need to be hard. So… Do it yourself!!!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For that reason, I created OverHackingView, which means a OverView for Hackers!!! or to be clear a Useful overview!!!
+If I already know how things will works?! NOP! But I will start first and see the results after!
+I’m only sure about one thing!!! &lt;a href=&quot;http://smallactsmanifesto.org/&quot;&gt;Small Acts Make Great Revolutions!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/overhackingview/overhackingview.github.io/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;PS: This is my repo, so create issues not only to give ideas, but also to help me improve my written skills!&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cheers!!!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Nov 2018 00:00:00 -0200</pubDate>
+        <link>http://overhackingview.com/2018/11/23/do-not-start-with-hello-world/</link>
+        <guid isPermaLink="true">http://overhackingview.com/2018/11/23/do-not-start-with-hello-world/</guid>
+        
+        <category>init</category>
+        
+        <category>beginners</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
