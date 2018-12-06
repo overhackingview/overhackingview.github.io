@@ -42,6 +42,7 @@ const MailChimp = (() => {
                 s.formMessage.addClass(s.animation);
               }, 750);
             } else {
+	      console.log('será redirecionado para: ' + `http://${top.location.host.toString()}/subscribe`)
               window.location = `http://${top.location.host.toString()}/subscribe`;
             }
           },
