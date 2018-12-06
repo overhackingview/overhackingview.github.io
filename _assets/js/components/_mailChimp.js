@@ -43,7 +43,8 @@ const MailChimp = (() => {
               }, 750);
             } else {
 	      console.log('será redirecionado para: ' + `http://${top.location.host.toString()}/subscribe`)
-              window.location = `http://${top.location.host.toString()}/subscribe`;
+              s.formMessage.text('Email subscribed ');
+	      window.location = `http://${top.location.host.toString()}/subscribe`;
             }
           },
           error: () => {
