@@ -28,7 +28,8 @@ const MailChimp = (() => {
     bindEvents() {
       s.formSubmit.on('click', e => {
         e.preventDefault();
-
+        var hasError = false;
+		
         $.ajax({
           url: s.formAction,
           type: 'POST',
@@ -36,6 +37,7 @@ const MailChimp = (() => {
           dataType: 'jsonp',
           success: response => {
             if (response.result === 'error') {
+              hasError = true;
               setTimeout(() => {
                 s.formMessage.text(`${response.msg}.`);
                 s.formMessage.removeClass('hidden');
@@ -43,11 +45,11 @@ const MailChimp = (() => {
               }, 750);
             } else {
 	      console.log('será redirecionado para: ' + `http://${top.location.host.toString()}/subscribe`)
-              s.formMessage.text('Email subscribed ');
 	      window.location = `http://${top.location.host.toString()}/subscribe`;
             }
           },
           error: () => {
+            hasError=true;
             setTimeout(() => {
               console.log('erro final - ' + ' form.serialize: ' + s.form.serialize() + ' apenas form: ' + s.form);
               s.formMessage.text('There was an error.');
@@ -56,6 +58,10 @@ const MailChimp = (() => {
             }, 750);
           }
         });
+	if(!hasError) {
+	   s.formMessage.text('Email subscribed ');
+        }
+	
       });
     }
   };
