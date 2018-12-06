@@ -33,8 +33,8 @@ formcarry: https://formcarry.com/s/mUixFySPBwB
 disqus: overhackingview
 
 # MailChimp settings
-mailchimp_action: https://frevoo.us6.list-manage.com/subscribe/post?u=0c80b66360862ed72c16dcb96&amp;id=5d3de04c7d
-mailchimp_input: b_0c80b66360862ed72c16dcb96_5d3de04c7d
+mailchimp_action: https://overhackingview.us6.list-manage.com/subscribe/post-json?u=0c80b66360862ed72c16dcb96&amp;id=76324a0c67
+mailchimp_input: b_0c80b66360862ed72c16dcb96_76324a0c67
 
 # Author settings
 author:
