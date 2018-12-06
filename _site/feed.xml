@@ -3,10 +3,10 @@
   <channel>
     <title>OverHackingView</title>
     <description>This is a place to share more then just hello world!.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Dec 2018 14:49:48 -0200</pubDate>
-    <lastBuildDate>Thu, 06 Dec 2018 14:49:48 -0200</lastBuildDate>
+    <link>http://overhackingview.com</link>
+    <atom:link href="http://overhackingview.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Dec 2018 15:03:17 -0200</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 15:03:17 -0200</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -36,8 +36,8 @@ I’m only sure about one thing!!! &lt;a href=&quot;http://smallactsmanifesto.or
 &lt;p&gt;Cheers!!!&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Nov 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/2018/11/23/do-not-start-with-hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/23/do-not-start-with-hello-world/</guid>
+        <link>http://overhackingview.com/2018/11/23/do-not-start-with-hello-world/</link>
+        <guid isPermaLink="true">http://overhackingview.com/2018/11/23/do-not-start-with-hello-world/</guid>
         
         <category>init</category>
         
